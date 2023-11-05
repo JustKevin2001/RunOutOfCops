@@ -28,16 +28,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
-
     public void StartButtonTapped()
     {
         mainPanel.SetActive(false);
